@@ -41,14 +41,6 @@ var config = {
 
 
 module.exports = [
-  // merge(config, {
-  //   entry: path.resolve(__dirname + '/src/plugin.js'),
-  //   output: {
-  //     filename: 'vue-clock.min.js',
-  //     libraryTarget: 'window',
-  //     library: 'VueClock',
-  //   }
-  // }),
   merge(config, {
     entry: path.resolve(__dirname + '/src/jodit.vue'),
     output: {
