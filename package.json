@@ -1,6 +1,6 @@
 {
-  "name": "jodit-vue",
-  "version": "1.0",
+  "name": "jodit-vuejs",
+  "version": "1.0.0",
   "description": "Jodit Editor for VueJS",
   "main": "dist/jodit-vue.js",
   "scripts": {
